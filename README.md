@@ -26,4 +26,4 @@ Please use the NBViewer to review the Jupyter Notebook file by opening the follo
 This project was made as a part of Data Processing and analysis using Python course at Faculty of Economic Sciences, University of Warsaw. 
 
 ## Contact
-Created by [Kasia](mailto:https://www.katarzyna.jalbrzykowska@student.uw.edu.pl/) 
+Created by [Kasia](mailto:https://www.katarzyna.jalbrzykowska@gmail.com/) 
